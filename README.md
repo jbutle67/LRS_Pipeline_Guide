@@ -14,3 +14,5 @@ After compiling samtools stats .txt output files with multiQC, a single .html re
 report can be seen by downloading the following file and opening in a web browser. [Example_of_Real_samtools_stats_MultiQC.html](https://github.com/user-attachments/files/29057253/Example_of_Real_samtools_stats_MultiQC.html)
 
 To see an example of the multiQC compiled report after running mosdepth, download the following file and open it in a web browser. [Example_of_Real_mosdepth_MultiQC.html](https://github.com/user-attachments/files/29061579/Example_of_Real_mosdepth_MultiQC.html)
+
+An example of the plotCoverage output file can be seen at 
