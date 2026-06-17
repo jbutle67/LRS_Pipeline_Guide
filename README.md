@@ -6,4 +6,4 @@ and open in your web browser of choice (recommended Safari or Firefox). [Example
 
 After compiling multiple fastQC outputs with multiQC, a single .html report will be generated with all of the summary
 statistics across each sample. To see an example of the multiQC .html report, download the following file and simiarly
-open in a web browser. [Example_
+open in a web browser. [Example_of_Real_Multisample_MultiQC.html] (
