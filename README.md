@@ -15,6 +15,7 @@ report can be seen by downloading the following file and opening in a web browse
 
 To see an example of the multiQC compiled report after running mosdepth, download the following file and open it in a web browser. [Example_of_Real_mosdepth_MultiQC.html](https://github.com/user-attachments/files/29061579/Example_of_Real_mosdepth_MultiQC.html)
 
-An example of the plotCoverage output file can be seen at <img width="1500" height="500" alt="Example_of_plotCoverage_plots" src="https://github.com/user-attachments/assets/3f33a05b-0cf1-479c-8d04-aa3f8aeb924b" />
+An example of the plotCoverage output file can be seen below, <img width="1500" height="500" alt="Example_of_plotCoverage_plots" src="https://github.com/user-attachments/assets/3f33a05b-0cf1-479c-8d04-aa3f8aeb924b" />
 
-Examples of the NanoPlot and NanoComp report files can be seen by downloading the following files and opening in a web browser, respectively. 
+Examples of the NanoPlot and NanoComp report files can be seen by downloading the following files and opening in a web browser;[Example_of_NanoPlot_report.html](https://github.com/user-attachments/files/29063515/Example_of_NanoPlot_report.html) and
+[Example_of_NanoComp_report.html](https://github.com/user-attachments/files/29063517/Example_of_NanoComp_report.html), respectively.
