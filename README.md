@@ -9,3 +9,5 @@ statistics across each sample. To see an example of the multiQC .html report, do
 open in a web browser. [Example_of_Real_Multisample_MultiQC.html](https://github.com/user-attachments/files/29052039/Example_of_Real_Multisample_MultiQC.html)
 
 **Post-alignment QC**:
+After compiling samtools stats .txt output files with multiQC, a single .html report will simiarly be generated. An example of this 
+report can be seen by downloading the following file and opening in a web browser. [Example_of_Real_samtools_stats_MultiQC.html) [https://github.com/jbutle67/LRS_Pipeline_Guide/blob/11c42d391299c330aa8ce108b11c5e3521d274d1/Example_of_Real_samtools_stats_MultiQC.html]
